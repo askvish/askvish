@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- [![Header](https://github.com/askvish/dp/blob/main/IMG_20220226_213053_0935.jpg "Header")](https://github.com/askvish/dp/blob/main/IMG_20220226_213053_0935.jpg) -->
+<img src="https://askvish.github.io/resume/" width="100px">
+
+### Hi, I'm Ashok Vishwakarma 👋
+
+I am a final year undergrad of Computer Science and Engineering in IIT Kanpur. I love to learn new algorithms, solve problems and explore inDepths of Systems. I am passionate about programming in general and I can code in many different languages, favorite one being C++.
+
+- 🔭 Exploring the world and beyond
+- 🌱 I’m currently learning Algorithms and System intricacies
+- 🤔 I’m looking for fun things to explore
+- 💬 Ask me about anything related to programming
+- 📫 How to reach me: https://askvish.github.io/resume/
