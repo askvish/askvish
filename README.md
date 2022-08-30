@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **askvish/askvish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![Header](https://github.com/askvish/dp/blob/main/IMG_20220226_213053_0935.jpg "Header")](https://github.com/askvish/dp/blob/main/IMG_20220226_213053_0935.jpg) -->
-<img src="https://askvish.github.io/resume/" width="100px">
+
+<img src="https://github.com/askvish/dp/blob/main/IMG_20220226_213053_0935.jpg" width="100px">
 
 ### Hi, I'm Ashok Vishwakarma 👋
 
